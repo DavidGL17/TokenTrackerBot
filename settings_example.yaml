@@ -1,0 +1,4 @@
+client_id: "Your client id here"
+client_secret: "Your client secret here"
+region: "eu"
+log_file: "ttb_log.log"
